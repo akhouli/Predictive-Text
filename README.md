@@ -21,5 +21,5 @@ technology is possible by restricting available words to those in a dictionary. 
 numeric signature "4663" produces the words "gone" and "home" in many dictionaries.
 For simplicity, this predictive text system assumes that the user does not need punctuation or numerals.
 
-There are a variety of implementations for this system, ranging from very unefficient to efficient.
+There are a variety of implementations for this system using various data structures, ranging from very unefficient to efficient.
 ==================================================================================================
